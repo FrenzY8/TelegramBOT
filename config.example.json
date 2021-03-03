@@ -1,0 +1,14 @@
+{
+    "token": "token here",
+    "prefix": [
+        "k!",
+        "k."
+    ],
+    "owners": [
+        1221373846
+    ],
+    "mangadex": {
+        "username": "myusername",
+        "password": "mypassword"
+    }
+}
