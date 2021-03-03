@@ -38,11 +38,15 @@
 ## Jangan Melupakan Ini !!
 
 TeleGram Bot Test Source Code : *@KatowProject* 
+
 > Developers : *@KatowProject*
+> 
 > Coder : *@KatowProject*
+> 
 > For *@KatowProject* : Sorry Katow If I Take Your Code Without Permission
 
 > [ *@KatowProject* ](github.com/KatowProject)
+> 
 > [ *Frenzy* ](github.com/FrenzY8)
 
 - Edit file `config/config.json`:
@@ -68,12 +72,15 @@ Get Your Token From [ @BotFather ](t.me/BotFather)
 
 -Click On Start Chat
 -And Make Your New BOT
+
 -You Will Got Bot Token From (t.me/BotFather)
+
 -Token Paste On `config/config.json`
 
 ## Permission Need:
 
 -You Need Node JS
+
 -You Need GIT
 
 ## Instalation And Run!
@@ -81,3 +88,5 @@ Get Your Token From [ @BotFather ](t.me/BotFather)
 
 ## Run Our BOT!
 -npm start
+
+Developerd : [ @KatowProject ](github.com/KatowProject)
