@@ -37,12 +37,13 @@
 
 ## Jangan Melupakan Ini !!
 
-TeleGram Bot Test Source Code : *@KatowProject* Developers : *@KatowProject*
-Coder : *@KatowProject*
-For *@KatowProject* : Sorry Katow If I Take Your Code Without Permission
+TeleGram Bot Test Source Code : *@KatowProject* 
+> Developers : *@KatowProject*
+> Coder : *@KatowProject*
+> For *@KatowProject* : Sorry Katow If I Take Your Code Without Permission
 
-[ *@KatowProject* ](github.com/KatowProject)
-[ *Frenzy* ](github.com/FrenzY8)
+> [ *@KatowProject* ](github.com/KatowProject)
+> [ *Frenzy* ](github.com/FrenzY8)
 
 - Edit file `config/config.json`:
 
