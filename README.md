@@ -1,6 +1,10 @@
 </p>
 <p align="center">
 <img src="https://camo.githubusercontent.com/9c184e56a76795eaeb8e7584424520de07a9aa4db57323f626ef9ff7730f62b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644d3155373661415133646245366263332f67697068792e676966" width="350" height="350"/>
+</a>
+
+
+<img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="400" height= "350"/>
 </p>
 <p align="center">
 <a href="#"><img title="FrenzY8" src="https://img.shields.io/badge/🏷 FrenzY8 MODS 🏷-blue?colorA=%000000&colorB=%ffffff&style=for-the-badge"></a>
@@ -23,11 +27,11 @@
 * [`Whatsapp`](wa.me/6285283200715)
 * [`Instagram`](https://instagram.com/kenajaga.exe)
 * [`GitHUB`](https://github.com/FrenzY8)
-* [`YouTube`](https://youtube.com/c/FrenzY8)
+
 
 ## Dont Forget To
 
-* [`Subscribe`](https://youtube.com/c/FrenzY8)
+* [`CLONE`](https://github.com/FrenzY8/TelegramBOT)
 
 ## Clone this project :
 
